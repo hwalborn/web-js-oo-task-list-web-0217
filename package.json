@@ -1,0 +1,22 @@
+{
+  "name": "web-js-oo-task-list-web-0217",
+  "version": "1.0.0",
+  "description": "Daniel'smom",
+  "main": "index.js",
+  "scripts": {
+    "test": "Holt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwalborn/web-js-oo-task-list-web-0217.git"
+  },
+  "keywords": [
+    "holt"
+  ],
+  "author": "holt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwalborn/web-js-oo-task-list-web-0217/issues"
+  },
+  "homepage": "https://github.com/hwalborn/web-js-oo-task-list-web-0217#readme"
+}
